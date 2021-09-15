@@ -1,2 +1,7 @@
 # Algoritmos---Curso-em-video
- repositório para exercicíos do curso de algoritmos
+ repositório para exercícios do curso de algoritmos
+
+#### Índice
+
+-----
+
